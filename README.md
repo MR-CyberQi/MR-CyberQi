@@ -2,7 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/MR-CyberQi/ActiveDirectoryLab)
+- <b> Active Directory </b>
+  - [Active Directory Home Lab | Adding users w/PowerShell](https://github.com/MR-CyberQi/ActiveDirectoryLab)
 
 <h2>📜 Certifications</h2>
 
