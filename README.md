@@ -7,7 +7,7 @@
 
 - <b> SIEM <b/>
   - [Splunk Integration Lab | Splunk, Kali Linux & Atomic Red Team](https://github.com/MR-CyberQi/ADDC/blob/main/README.md)
-  - SIEM Home Lab
+  - [SIEM Home Lab | Blue Team X Red Team]
  
 - <b> TryHackMe Labs
   - Summit
