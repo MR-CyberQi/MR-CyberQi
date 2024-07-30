@@ -6,7 +6,7 @@
   - [Active Directory Home Lab | Adding users w/PowerShell](https://github.com/MR-CyberQi/ActiveDirectoryLab)
 
 - <b> SIEM <b/>
-  - Splunk Integration Lab | Splunk, Kali Linux & Atomic Red Team
+  - [Splunk Integration Lab | Splunk, Kali Linux & Atomic Red Team](https://github.com/MR-CyberQi/ADDC/blob/main/README.md) 
  
 - <b> TryHackMe Labs
   - 
