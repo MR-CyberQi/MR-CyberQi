@@ -6,10 +6,13 @@
   - [Active Directory Home Lab | Adding users w/PowerShell](https://github.com/MR-CyberQi/ActiveDirectoryLab)
 
 - <b> SIEM <b/>
-  - [Splunk Integration Lab | Splunk, Kali Linux & Atomic Red Team](https://github.com/MR-CyberQi/ADDC/blob/main/README.md) 
+  - [Splunk Integration Lab | Splunk, Kali Linux & Atomic Red Team](https://github.com/MR-CyberQi/ADDC/blob/main/README.md)
+  - SIEM Home Lab
  
 - <b> TryHackMe Labs
-  - 
+  - Summit
+  - Eviction
+  - Friday Overtime
 
 <h2>📜 Certifications</h2>
 
