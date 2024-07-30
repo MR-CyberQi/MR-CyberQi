@@ -7,6 +7,9 @@
 
 - <b> SIEM <b/>
   - Splunk Integration Lab | Splunk, Kali Linux & Atomic Red Team
+ 
+- <b> TryHackMe Labs
+  - 
 
 <h2>📜 Certifications</h2>
 
