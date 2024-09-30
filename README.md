@@ -21,9 +21,5 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-<p>
-  <a href="linkedin.com/in/muhammad-rahman-a24b6528b" rel="nofollow noreferrer">
-    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
-  </a> &nbsp; 
-</p>
+[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-rahman-a24b6528b)
 
