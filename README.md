@@ -27,4 +27,3 @@
   </a> &nbsp; 
 </p>
 
-[linkedin]: https://www.linkedin.com/in/muhammad-rahman-a24b6528b
