@@ -11,8 +11,7 @@ Ever since I was young I've had an interest in technology and I.T as it was some
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis | <a href="https://github.com/MR-CyberQi/Splunk-Integration/tree/main">Detection Lab</a>|
 | Creating users with Active Directory | <a href="https://github.com/MR-CyberQi/ActiveDirectoryLab">Active Directory Lab</a>|
 
 ## Tools
@@ -46,12 +45,11 @@ Ever since I was young I've had an interest in technology and I.T as it was some
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b> Active Directory </b>
-  - [Active Directory Home Lab | Adding users w/PowerShell](https://github.com/MR-CyberQi/ActiveDirectoryLab)
+ - [SIEM Implementation and Log Analysis](https://github.com/MR-CyberQi/Splunk-Integration/tree/main)
+ - [Active Directory Lab](https://github.com/MR-CyberQi/ActiveDirectoryLab)
 
-- <b> SIEM <b/>
-  - [Splunk Integration Lab | Splunk, Kali Linux & Atomic Red Team](https://github.com/MR-CyberQi/ADDC/blob/main/README.md)
-  - [SIEM Home Lab | Blue Team X Red Team](https://github.com/MR-CyberQi/Blue-X-Red/blob/main/README.md)
+
+  
  
 
 
