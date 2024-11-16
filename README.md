@@ -1,11 +1,8 @@
 <h1>Hi, I'm Yunus! </h1>
 <a href="https://linkedin.com/in/muhammad-rahman-a24b6528b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-
-I am a recent Biomedical Science graduate with a growing passion for Cybersecurity. I'm excited to bring my analytical mindset, problem-solving skills, and scientific background to the world of tech.
-
 ## Objective
-Ever since I was young I've had an interest in technology and I.T as it was something that I would use on a daily basis. Alongside my journey in Biomedical science which has taught me valuable skills, it has led me to develop a passion for cybersecurity. I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+A passionate and driven individual with a strong desire to forge a career in Cybersecurity, transitioning from a Biomedical Science degree. My academic background has honed my analytical thinking, attention to detail, and problem-solving abilities—skills that are highly transferable to the field of cybersecurity. I am continuously learning to gain and expand my technical expertise in cybersecurity, aiming to protect digital assets, mitigate cyber threats, and contribute to creating secure systems.
 
 ## Skills
 
